@@ -2,7 +2,6 @@
 
 - I'm live in Brazil 🇧🇷🌴
 - I'm Learning Node.js and React.js 😾
-- I'm coursing Computation Science in Tiradentes University 🖱️
 <p>&nbsp;</p>
 
 ## My Skills 🖥️
