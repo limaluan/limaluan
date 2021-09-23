@@ -1,7 +1,7 @@
 ## Hi there, i'm Luan 👋
 
 - I'm live in Brazil 🇧🇷🌴
-- I'm Learning Node.js and React.js 😾
+- I'm Learning React.js 😾
 <p>&nbsp;</p>
 
 ## My Skills 🖥️
