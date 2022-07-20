@@ -8,8 +8,7 @@
 <br><br/>
 
 <!--Stats Card-->
-<img class="img" src="https://github-readme-stats.vercel.app/api?username=limaluan&show_icons=true&theme=radical" />
-
+<img width="400px" src="https://github-readme-stats.vercel.app/api?username=limaluan&show_icons=true&theme=radical" />
 
 <br><br/>
 
