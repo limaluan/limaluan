@@ -1,4 +1,4 @@
-<img align="right" height="540em" src="https://raw.githubusercontent.com/gist/limaluan/9f9f0a086ec8274fc15476b88c83029d/raw/749a37a3bce4e73205a4a9721eedc7ed360829d8/githubcard.svg"/>
+<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/limaluan/9f9f0a086ec8274fc15476b88c83029d/raw/749a37a3bce4e73205a4a9721eedc7ed360829d8/githubcard.svg"/>
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Luan Lima!</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=limaluan&color=yellow" alt="Profile views" /> </p>
 
@@ -8,7 +8,8 @@
 <br><br/>
 
 <!--Stats Card-->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=limaluan&show_icons=true&theme=radical)
+<img class="img" src="https://github-readme-stats.vercel.app/api?username=limaluan&show_icons=true&theme=radical" />
+
 
 <br><br/>
 
