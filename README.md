@@ -6,8 +6,12 @@
 
 - 🔭 I'm live in Brazil 🇧🇷🌴
 <br><br/>
+<p align="left">
+
 <!--Stats Card-->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=limaluan&show_icons=true&theme=radical)
+
+<p/>
 
 <br><br/>
 
