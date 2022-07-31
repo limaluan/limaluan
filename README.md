@@ -1,10 +1,14 @@
 <img align="right" height="590em" src="https://raw.githubusercontent.com/gist/limaluan/9f9f0a086ec8274fc15476b88c83029d/raw/749a37a3bce4e73205a4a9721eedc7ed360829d8/githubcard.svg"/>
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Luan Lima!</h1>
+<h1 align="left">Hi guys <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Luan Lima!</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=limaluan&color=yellow" alt="Profile views" /> </p>
 
 - 🔥 Front-End Developer
 
 - 🔭 I'm live in Brazil 🇧🇷🌴
+
+- 👀 Looking for new challenges and growth opportunities!
+
+- 💪 1% Better every day!
 <br><br/>
 
 <!--Stats Card-->
