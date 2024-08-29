@@ -2,7 +2,7 @@
 <h1 align="left">Hi guys <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Luan Lima!</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=limaluan&color=yellow" alt="Profile views" /> </p>
 
-- 🔥 Front-End Developer
+- 🔥 Fullstack Developer
 
 - 🔭 I'm live in Brazil 🇧🇷🌴
 
